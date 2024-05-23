@@ -1,0 +1,6 @@
+framework module WYCocosEngine {
+  umbrella header "WYCocosEngine-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_WYCocosEngine_Example {
+  umbrella header "Pods-WYCocosEngine_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

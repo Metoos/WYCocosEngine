@@ -1,0 +1,16 @@
+PODS:
+  - WYCocosEngine (0.1.0)
+
+DEPENDENCIES:
+  - WYCocosEngine (from `../`)
+
+EXTERNAL SOURCES:
+  WYCocosEngine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WYCocosEngine: 4ab2326a6871cd2626a94b7c1d6091eeadeca1a0
+
+PODFILE CHECKSUM: 196b457ad2870562e02f43504c1a7b093260b0b3
+
+COCOAPODS: 1.15.2

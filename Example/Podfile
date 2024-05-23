@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'WYCocosEngine_Example' do
+  pod 'WYCocosEngine', :path => '../'
+
+  target 'WYCocosEngine_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
